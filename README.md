@@ -1,58 +1,78 @@
-# Hey there 👋 I'm Mahdi
+<div align="center">
 
-Backend Developer passionate about building scalable web applications, APIs, and backend systems.
+# Hi 👋 I'm Mahdi
 
-## 🚀 Tech Stack
+### Backend Developer | Python & Django Developer
 
-### Backend
-- Python
-- Django
-- FastAPI
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=900&lines=Python+Developer;Django+Backend+Developer;FastAPI+Developer;Building+Scalable+Backend+Systems)
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-### Database & Tools
-- PostgreSQL
-- Git & GitHub
-- Linux
+</div>
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-- Building backend systems and REST APIs
-- Interested in system design and performance optimization
-- Learning advanced backend architecture and scalable applications
-- Passionate about clean code and modern development practices
+- 🔭 Backend Developer focused on scalable web applications and APIs
+- 🌱 Currently learning advanced backend architecture and performance optimization
+- ⚡ Interested in system design, automation, and AI
+- 🛠 Passionate about clean code and modern software development
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,bootstrap,postgres,git,linux)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiAbedi1384&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAbedi1384&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiAbedi1384&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiAbedi1384&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahdiAbedi1384&theme=tokyonight)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MahdiAbedi1384&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Connect
+## 🏆 GitHub Trophies
 
-- GitHub: https://github.com/MahdiAbedi1384
+<div align="center">
 
-## 🔥 GitHub Streak
+[![trophy](https://github-profile-trophy.vercel.app/?username=MahdiAbedi1384&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MahdiAbedi1384&theme=tokyonight)
+</div>
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/MahdiAbedi1384
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MahdiAbedi1384)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=MahdiAbedi1384&style=for-the-badge)
+
+</div>
